@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+img{
+	height:200px;
+}
+a{
+	font-size:25px;
+}
+marquee{
+	font-size:25px;
+}
